@@ -6,3 +6,6 @@ Thumbs.db
 node_modules/
 __pycache__/
 *.py[cod]
+.chrome-gmb-profile/
+debug/
+*.log

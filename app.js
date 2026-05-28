@@ -30,7 +30,7 @@ function unique(values) {
 }
 
 function confirmedStores() {
-  return state.stores.filter((store) => store.gmb_status === "已人工確認");
+  return state.stores.filter((store) => store.gmb_status === "已人工確認" || store.gmb_status === "已自動查核");
 }
 
 function calculateStats() {

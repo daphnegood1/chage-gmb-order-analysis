@@ -15,15 +15,15 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=2931",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=72",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E5%8D%97%E5%B1%AF%E5%A4%A7%E5%A2%A9%E5%BA%97%20%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%B1%AF%E5%8D%80%E5%8D%97%E5%B1%AF%E8%B7%AF%E4%BA%8C%E6%AE%B5202%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
+      "gmb_url": "https://www.google.com/maps/place/%E8%8C%B6%E8%81%9ACHAGE%E5%8D%97%E5%B1%AF%E5%A4%A7%E5%A2%A9%E5%BA%97/@24.1367732,120.650414,17z/data=!3m1!4b1!4m6!3m5!1s0x34693d9c826926e3:0x4da4eb829740aec!8m2!3d24.1367732!4d120.650414!16s%2Fg%2F11p74yb47m?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MDUyNS4wIKXMDSoASAFQAw%3D%3D",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": false,
+      "has_delivery_order": false,
       "takeout_providers": [],
       "delivery_providers": [],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化查核 Google 搜尋與 Maps；未見「點餐外帶」或「點餐外送」按鈕。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "8552",
@@ -35,15 +35,15 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=8552",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=72",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E5%8F%B0%E4%B8%AD%E5%A4%A7%E6%99%BA%E5%BA%97%20%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%9D%B1%E5%8D%80%E5%A4%A7%E6%99%BA%E8%B7%AF57%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
+      "gmb_url": "https://www.google.com/maps/place/%E8%8C%B6%E8%81%9ACHAGE%E5%8F%B0%E4%B8%AD%E5%A4%A7%E6%99%BA%E5%BA%97%EF%BD%9C%E9%A6%99%E7%89%87%E9%A0%98%E5%B0%8E%E5%93%81%E7%89%8C%EF%BC%BF%E5%8F%B0%E4%B8%AD%E6%89%8B%E6%90%96%E9%A3%B2%E6%96%99%E5%BA%97%E5%A4%96%E5%B8%B6%E5%A4%96%E9%80%81%E5%8A%A0%E7%9B%9F%E6%8E%A8%E8%96%A6/@24.1350247,120.6888146,17z/data=!3m1!4b1!4m6!3m5!1s0x34693dd20af8a573:0x58183e8c89fb1911!8m2!3d24.1350247!4d120.6888146!16s%2Fg%2F11vx7ftqj2?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MDUyNS4wIKXMDSoASAFQAw%3D%3D",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": false,
+      "has_delivery_order": false,
       "takeout_providers": [],
       "delivery_providers": [],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化查核 Google 搜尋與 Maps；未見「點餐外帶」或「點餐外送」按鈕。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "2937",
@@ -55,15 +55,15 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=2937",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=72",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E5%A4%A7%E7%94%B2%E9%8E%AE%E7%80%BE%E5%BA%97%20%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%A4%A7%E7%94%B2%E5%8D%80%E9%8E%AE%E7%80%BE%E8%A1%97163%E8%99%9F1%E6%A8%93",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
+      "gmb_url": "https://www.google.com/maps/place/%E8%8C%B6%E8%81%9ACHAGE%E5%A4%A7%E7%94%B2%E9%8E%AE%E7%80%BE%E5%BA%97/@24.3456947,120.6239183,17z/data=!3m1!4b1!4m6!3m5!1s0x346911137c1ca559:0x35e1eeba4ce9a86c!8m2!3d24.3456947!4d120.6239183!16s%2Fg%2F11lq24j_n8?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MDUyNS4wIKXMDSoASAFQAw%3D%3D",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": false,
+      "has_delivery_order": false,
       "takeout_providers": [],
       "delivery_providers": [],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化查核 Google 搜尋與 Maps；未見「點餐外帶」或「點餐外送」按鈕。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "3361",
@@ -75,15 +75,15 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=3361",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=72",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E6%B2%99%E9%B9%BF%E4%B8%AD%E5%B1%B1%E5%BA%97%20%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B2%99%E9%B9%BF%E5%8D%80%E4%B8%AD%E5%B1%B1%E8%B7%AF400%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
+      "gmb_url": "https://www.google.com/maps/place/%E8%8C%B6%E8%81%9ACHAGE%E6%B2%99%E9%B9%BF%E4%B8%AD%E5%B1%B1%E5%BA%97%EF%BD%9C%E9%A6%99%E7%89%87%E9%A0%98%E5%B0%8E%E5%93%81%E7%89%8C%EF%BC%BF%E5%8F%B0%E4%B8%AD%E6%89%8B%E6%90%96%E9%A3%B2%E6%96%99%E5%BA%97%E5%A4%96%E5%B8%B6%E5%A4%96%E9%80%81%E5%8A%A0%E7%9B%9F%E6%8E%A8%E8%96%A6+%E6%B2%99%E9%B9%BF%E9%A3%B2%E6%96%99%E5%BA%97%E3%80%81%E5%9C%A8%E5%9C%B0%E7%BE%8E%E9%A3%9F%E9%A3%B2%E6%96%99%E8%8C%B6%E9%A3%B2%E5%89%B5%E6%A5%AD%E5%8A%A0%E7%9B%9F/@24.2429029,120.5616081,17z/data=!3m1!4b1!4m6!3m5!1s0x3469156fd287fb13:0x318c74253b442c10!8m2!3d24.2429029!4d120.5616081!16s%2Fg%2F11tfns8g1g?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MDUyNS4wIKXMDSoASAFQAw%3D%3D",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": false,
+      "has_delivery_order": false,
       "takeout_providers": [],
       "delivery_providers": [],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化查核 Google 搜尋與 Maps；未見「點餐外帶」或「點餐外送」按鈕。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "1023",
@@ -95,15 +95,15 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=1023",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=66",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E5%85%A7%E6%B9%96%E5%BA%B7%E5%AF%A7%E5%BA%97%20%E5%8F%B0%E5%8C%97%E5%B8%82%E5%BA%B7%E5%AF%A7%E8%B7%AF%E4%B8%80%E6%AE%B582%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
+      "gmb_url": "https://www.google.com/maps/place/%E8%8C%B6%E8%81%9ACHAGE%E5%85%A7%E6%B9%96%E5%BA%B7%E5%AF%A7%E5%BA%97/@25.0798814,121.5926181,17z/data=!3m1!4b1!4m6!3m5!1s0x3442adfeeb2c65cd:0x6dd370a6e52133d0!8m2!3d25.0798814!4d121.5926181!16s%2Fg%2F11h5n9jynf?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MDUyNS4wIKXMDSoASAFQAw%3D%3D",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": false,
+      "has_delivery_order": false,
       "takeout_providers": [],
       "delivery_providers": [],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化查核 Google 搜尋與 Maps；未見「點餐外帶」或「點餐外送」按鈕。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "2404",
@@ -115,15 +115,15 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=2404",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=66&currentpage=2",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E5%8C%97%E6%8A%95%E5%B0%8A%E8%B3%A2%E5%BA%97%20%E5%8C%97%E6%8A%95%E5%8D%80%E5%B0%8A%E8%B3%A2%E8%A1%97209%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
+      "gmb_url": "https://www.google.com/maps/place/%E8%8C%B6%E8%81%9ACHAGE%E5%8C%97%E6%8A%95%E5%B0%8A%E8%B3%A2%E5%BA%97/@25.1153736,121.5078562,17z/data=!3m1!4b1!4m6!3m5!1s0x3442af6af5ff82ab:0x829939de7856cdc5!8m2!3d25.1153736!4d121.5078562!16s%2Fg%2F11mh_nvl7r?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MDUyNS4wIKXMDSoASAFQAw%3D%3D",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": false,
+      "has_delivery_order": false,
       "takeout_providers": [],
       "delivery_providers": [],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化查核 Google 搜尋與 Maps；未見「點餐外帶」或「點餐外送」按鈕。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "8756",
@@ -135,15 +135,15 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=8756",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=66",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E5%8D%97%E6%B8%AF%E7%8E%89%E6%88%90%E5%BA%97%20%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8D%97%E6%B8%AF%E5%8D%80%E5%8D%97%E6%B8%AF%E8%B7%AF%E4%B8%89%E6%AE%B525%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
+      "gmb_url": "https://www.google.com/maps/place/%E8%8C%B6%E8%81%9ACHAGE%E5%8D%97%E6%B8%AF%E7%8E%89%E6%88%90%E5%BA%97/@25.0537524,121.5914183,17z/data=!3m1!4b1!4m6!3m5!1s0x3442abfbe753e98b:0x20af1fc31c0440a4!8m2!3d25.0537524!4d121.5914183!16s%2Fg%2F11wx87ky2b?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MDUyNS4wIKXMDSoASAFQAw%3D%3D",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": false,
+      "has_delivery_order": false,
       "takeout_providers": [],
       "delivery_providers": [],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化查核 Google 搜尋與 Maps；未見「點餐外帶」或「點餐外送」按鈕。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "394",
@@ -155,15 +155,15 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=394",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=66",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E5%8F%B0%E5%8C%97%E9%95%B7%E5%AE%89%E5%BA%97%20%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80%E9%95%B7%E5%AE%89%E8%A5%BF%E8%B7%AF129%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
+      "gmb_url": "https://www.google.com/maps/place/%E8%8C%B6%E8%81%9ACHAGE%E5%8F%B0%E5%8C%97%E9%95%B7%E5%AE%89%E5%BA%97/@25.051396,121.5152907,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a91c32e8f1c1:0x8c620762f90a350e!8m2!3d25.051396!4d121.5152907!16s%2Fg%2F11g4crdzyk?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MDUyNS4wIKXMDSoASAFQAw%3D%3D",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": false,
+      "has_delivery_order": false,
       "takeout_providers": [],
       "delivery_providers": [],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化查核 Google 搜尋與 Maps；未見「點餐外帶」或「點餐外送」按鈕。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "3359",
@@ -175,15 +175,15 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=3359",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=66",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E6%96%87%E5%B1%B1%E6%9C%A8%E6%96%B0%E5%BA%97%20%E5%8F%B0%E5%8C%97%E5%B8%82%E6%96%87%E5%B1%B1%E5%8D%80%E6%9C%A8%E6%96%B0%E8%B7%AF%E4%BA%8C%E6%AE%B5262%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
+      "gmb_url": "https://www.google.com/maps/place/%E8%8C%B6%E8%81%9ACHAGE%E6%96%87%E5%B1%B1%E6%9C%A8%E6%96%B0%E5%BA%97/@24.9831694,121.5660206,17z/data=!3m1!4b1!4m6!3m5!1s0x3468018aae9811c5:0x968648a8e6b0a781!8m2!3d24.9831694!4d121.5660206!16s%2Fg%2F11q4m9yztm?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MDUyNS4wIKXMDSoASAFQAw%3D%3D",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": false,
+      "has_delivery_order": false,
       "takeout_providers": [],
       "delivery_providers": [],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化查核 Google 搜尋與 Maps；未見「點餐外帶」或「點餐外送」按鈕。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "1259",
@@ -196,7 +196,7 @@
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=90",
       "gmb_name": "茶聚CHAGE永康中華店",
       "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E6%B0%B8%E5%BA%B7%E4%B8%AD%E8%8F%AF%E5%BA%97%20%E5%8F%B0%E5%8D%97%E5%B8%82%E6%B0%B8%E5%BA%B7%E5%8D%80%E4%B8%AD%E8%8F%AF%E8%B7%AF489%E8%99%9F",
-      "gmb_status": "已人工確認",
+      "gmb_status": "已自動查核",
       "has_takeout_order": true,
       "has_delivery_order": true,
       "takeout_providers": [
@@ -224,15 +224,15 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=2961",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=120",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E4%B8%83%E5%A0%B5%E7%99%BE%E7%A6%8F%E5%BA%97%20%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%83%E5%A0%B5%E5%8D%80%E7%99%BE%E4%B8%89%E8%A1%9732%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
+      "gmb_url": "https://www.google.com/maps/place/%E8%8C%B6%E8%81%9ACHAGE%E4%B8%83%E5%A0%B5%E7%99%BE%E7%A6%8F%E5%BA%97%EF%BD%9C%E9%A6%99%E7%89%87%E9%A0%98%E5%B0%8E%E5%93%81%E7%89%8C%EF%BC%BF%E5%9F%BA%E9%9A%86%E4%B8%83%E5%A0%B5%E6%89%8B%E6%90%96%E9%A3%B2%E6%96%99%E5%BA%97%E5%A4%96%E5%B8%B6%E5%A4%96%E9%80%81%E5%8A%A0%E7%9B%9F%E6%8E%A8%E8%96%A6+%E7%84%A1%E7%B3%96%E8%8C%B6+%E5%9F%BA%E9%9A%86%E5%9C%A8%E5%9C%B0%E7%BE%8E%E9%A3%9F%E9%A3%B2%E6%96%99%E6%8E%A8%E8%96%A6/@25.0817469,121.6950638,17z/data=!3m1!4b1!4m6!3m5!1s0x345d53c8495c4af1:0x83d0fb3571080490!8m2!3d25.0817469!4d121.6950638!16s%2Fg%2F11rf9y1fm2?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MDUyNS4wIKXMDSoASAFQAw%3D%3D",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": false,
+      "has_delivery_order": false,
       "takeout_providers": [],
       "delivery_providers": [],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化查核 Google 搜尋與 Maps；未見「點餐外帶」或「點餐外送」按鈕。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "2307",
@@ -244,15 +244,19 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=2307",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=120",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E5%9F%BA%E9%9A%86%E5%AD%9D%E4%B8%89%E5%BA%97%20%E5%9F%BA%E9%9A%86%E5%B8%82%E4%BB%81%E6%84%9B%E5%8D%80%E5%AD%9D%E4%B8%89%E8%B7%AF96%E8%99%9F1%E6%A8%93",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E5%9F%BA%E9%9A%86%E5%AD%9D%E4%B8%89%E5%BA%97+%E5%9F%BA%E9%9A%86%E5%B8%82%E4%BB%81%E6%84%9B%E5%8D%80%E5%AD%9D%E4%B8%89%E8%B7%AF96%E8%99%9F1%E6%A8%93#sv=CAESzQEKuQEStgEKd0FNbjMteVE1OFZaemdZZHh2UW1veUx0d2lMckJpaWJOcWVDVlQ5aXBEaGh0NHAxN3RiR3FlVDZzZVZYbzE4ZVN2bkNlZmZsMUFlZjJYWmRieThoQUJ3dG1EM1dfWTNRM1kzbUpDSXBjalZ6ajQ4VzQzY3Ezbi1jEhcyYUVYYXVLdUdyX2oxZThQN2IzbmlRMBoiQUpLTEZtS2FxeFNsVnR6MWRyV0pSSjQ3bXJfVjRLOHFLdxIEODEyNBoBMyoAMAA4AUAAGCog2YuPrgdKAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda"
+      ],
+      "delivery_providers": [
+        "foodpanda"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "8939",
@@ -264,15 +268,15 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=8939",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=96",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E5%86%AC%E5%B1%B1%E5%8D%97%E8%88%88%E5%BA%97%20269%20%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%86%AC%E5%B1%B1%E9%84%89%E5%86%AC%E5%B1%B1%E8%B7%AF%E4%B8%80%E6%AE%B5986%E5%B7%B712%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
+      "gmb_url": "https://www.google.com/maps/place/%E8%8C%B6%E8%81%9ACHAGE%E5%86%AC%E5%B1%B1%E5%8D%97%E8%88%88+%E9%A6%99%E7%89%87%E9%A0%98%E5%B0%8E%E5%93%81/@24.6337477,121.7917231,17z/data=!3m1!4b1!4m6!3m5!1s0x3467e74384f2bbff:0x157a1cf4196c2d20!8m2!3d24.6337477!4d121.7917231!16s%2Fg%2F11z74wng47?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MDUyNS4wIKXMDSoASAFQAw%3D%3D",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": false,
+      "has_delivery_order": false,
       "takeout_providers": [],
       "delivery_providers": [],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化查核 Google 搜尋與 Maps；未見「點餐外帶」或「點餐外送」按鈕。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "3444",
@@ -284,15 +288,15 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=3444",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=96",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E7%BE%85%E6%9D%B1%E4%B8%AD%E8%8F%AF%E5%BA%97%20265%E5%AE%9C%E8%98%AD%E7%B8%A3%E7%BE%85%E6%9D%B1%E9%8E%AE%E4%B8%AD%E8%8F%AF%E8%B7%AF116%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
+      "gmb_url": "https://www.google.com/maps/search/?api=1&hl=zh-TW&gl=tw&query=%E8%8C%B6%E8%81%9ACHAGE%E7%BE%85%E6%9D%B1%E4%B8%AD%E8%8F%AF%E5%BA%97%20265%E5%AE%9C%E8%98%AD%E7%B8%A3%E7%BE%85%E6%9D%B1%E9%8E%AE%E4%B8%AD%E8%8F%AF%E8%B7%AF116%E8%99%9F",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": false,
+      "has_delivery_order": false,
       "takeout_providers": [],
       "delivery_providers": [],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化查核 Google 搜尋與 Maps；未見「點餐外帶」或「點餐外送」按鈕。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "94",
@@ -304,15 +308,22 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=94",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=96",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E7%BE%85%E6%9D%B1%E6%B0%91%E6%AC%8A%E5%BA%97%20%E5%AE%9C%E8%98%AD%E7%B8%A3%E7%BE%85%E6%9D%B1%E9%8E%AE%E6%B0%91%E6%AC%8A%E8%B7%AF21%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
-      "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E7%BE%85%E6%9D%B1%E6%B0%91%E6%AC%8A%E5%BA%97%20%E5%AE%9C%E8%98%AD%E7%B8%A3%E7%BE%85%E6%9D%B1%E9%8E%AE%E6%B0%91%E6%AC%8A%E8%B7%AF21%E8%99%9F#sv=CAESzAEKuAEStQEKd0FNbjMteVJEOFNnWU1IaVRkck53N3U5SlA3Q3M0TXZ1bmk4TXZLM0F3ZWpVSnNvM3Y4UTBmdjBUaDBFRzdTMVZzWXl1UXRhaVBmQndMdGE4cXpMM2l5aW5zSlAtMVV1bVVsYVFsZHJSVG5wQkpLXy0yM2ZDbkUwEhZOYUlYYXBIbkdvVHIxZThQbTgyUklRGiJBSktMRm1KV1JKakYwVWIxcTJfWjVWN2tDRGVPRkc1YWh3EgQ4MTI0GgEzKgAwADgBQAAYKiDm2JPBBkoCEAE",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "lin.ee"
+      ],
+      "delivery_providers": [
+        "foodpanda",
+        "lin.ee"
+      ],
+      "other_providers": [
+        "lin.ee"
+      ],
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "168",
@@ -324,15 +335,19 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=168",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=78",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E5%BD%B0%E5%8C%96%E6%B0%B8%E5%AE%89%E5%BA%97%20%E5%BD%B0%E5%8C%96%E5%B8%82%E6%B0%B8%E5%AE%89%E8%A1%97194%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E5%BD%B0%E5%8C%96%E6%B0%B8%E5%AE%89%E5%BA%97%20%E5%BD%B0%E5%8C%96%E5%B8%82%E6%B0%B8%E5%AE%89%E8%A1%97194%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVEzZTB1UEN6WXRIUGpFQzJYY0FOMTZKRl9IYmpQTmcteEdYNTBNbnk0LW8td2Y5U2s1dExtZXBFS1dTbThmWFRqQ1hHN1V1V2w2OEdjZ1hVaFNpZ3pMa1BEdU5OWFhndzFySGIwVkZuUlVqQ09aUlBFEhdUcUlYYXJpR0U3ZTd2cjBQb0lERHNRNBoiQUpLTEZtTEJXY2FwMXJyR1JXUHpFSFY3aExUd21tcUV5URIEODEyNBoBMyoAMAA4AUAAGCog34KhtwtKAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda"
+      ],
+      "delivery_providers": [
+        "foodpanda"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "1554",
@@ -344,15 +359,25 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=1554",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=102&currentpage=2",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E4%B8%AD%E5%92%8C%E7%A6%8F%E7%BE%8E%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%92%8C%E5%8D%80%E7%A6%8F%E7%BE%8E%E8%B7%AF310%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
-      "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E4%B8%AD%E5%92%8C%E7%A6%8F%E7%BE%8E%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%92%8C%E5%8D%80%E7%A6%8F%E7%BE%8E%E8%B7%AF310%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVFaanhMX0JuVndUVlRpOFBndUhUQmxYQnlmMjJSNzBfZG5IY0dJT2kxUXE1UEZrbGZTM2ppdEt3Ukhoa0J1eVUyekpmX3FYUnVoZDBHdUtXWDBUOU93UDRmRi1BZTFqbUJ2cURIOGhmVVgyZl9vYkNNEhdZNm9YYXIzcUhhbm8xZThQbXJfZ2dBWRoiQUpLTEZtSzVrUHpCQWMwV2FkU2FRUGhxR19UTVp0a3hFZxIEODEyNBoBMyoAMAA4AUAAGCogyqTrqQ9KAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda",
+        "Uber Eats",
+        "lin.ee"
+      ],
+      "delivery_providers": [
+        "foodpanda",
+        "Uber Eats",
+        "lin.ee"
+      ],
+      "other_providers": [
+        "lin.ee"
+      ],
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "1702",
@@ -364,15 +389,23 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=1702",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=102&currentpage=2",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E6%96%B0%E8%8E%8A%E5%85%AB%E5%BE%B7%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%96%B0%E8%8E%8A%E5%8D%80%E5%85%AB%E5%BE%B7%E8%A1%97150%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
-      "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E6%96%B0%E8%8E%8A%E5%85%AB%E5%BE%B7%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%96%B0%E8%8E%8A%E5%8D%80%E5%85%AB%E5%BE%B7%E8%A1%97150%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVRHV1dxcXFIejNBLUxRWTJiWmI3OUNPdUg4VE5hODk1Y0YtbVY3aFVkbG1Gd0ZQR3MwZ3U1MV9PNWtRUmxabFdmd0NLQVZSYi1qS2k2cTRWbHI5cjh4dWRRcnJPb0x2T185bndHS1M1U1pyQ3ZqM1I4EhdnYW9YYXNPLURzX1cxZThQb0pXUXlBNBoiQUpLTEZtSVRQX0V4UVlITmpLWXRZV3djcHB1bEh5ZjJYURIEODEyNBoBMyoAMAA4AUAAGCogiOnOnA9KAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda",
+        "lin.ee"
+      ],
+      "delivery_providers": [
+        "foodpanda",
+        "lin.ee"
+      ],
+      "other_providers": [
+        "lin.ee"
+      ],
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "1750",
@@ -384,15 +417,22 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=1750",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=102&currentpage=2",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E6%9D%BF%E6%A9%8B%E5%A4%A7%E4%BB%81%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E5%A4%A7%E4%BB%81%E8%A1%9725%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
-      "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E6%9D%BF%E6%A9%8B%E5%A4%A7%E4%BB%81%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E5%A4%A7%E4%BB%81%E8%A1%9725%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVJwNTRWOTEtUUU1QS01TTRyeVB0aTNDVlc2UnBCUGNRRWNVQ1BnX3hlc2VaVDZWU3lHMzV6X29BMkdOUlFPR0hHRnZ1ekxHSW1EVVVqalZ1QlByNThlWUVUM0JyQmNxR2ZtX3BmbVFTQy01LS1sbnhnEhdsYW9YYW9ES0V1aXAxZThQaWQzYzBRNBoiQUpLTEZtSkVhcnY3U3NyZ01aSTYzTkMyVmNVUTZPSHVIZxIEODEyNBoBMyoAMAA4AUAAGCogpOeNxg9KAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "lin.ee"
+      ],
+      "delivery_providers": [
+        "Uber Eats",
+        "lin.ee"
+      ],
+      "other_providers": [
+        "lin.ee"
+      ],
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "8716",
@@ -404,15 +444,20 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=8716",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=102&currentpage=2",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E6%9D%BF%E6%A9%8B%E8%8E%92%E5%85%89%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8E%92%E5%85%89%E8%B7%AF196%E5%B7%B71%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E6%9D%BF%E6%A9%8B%E8%8E%92%E5%85%89%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8E%92%E5%85%89%E8%B7%AF196%E5%B7%B71%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVRGeVo5dFFBYVJMaEdkVHo1Ykx6VWdLNnRBVWdkOVNSaHFGRzE1M05IMnhtN2s1bEVweEw1V3JuMDhod0wyRGFFUGlUWW52T0RJalU4Zkg2NUc5LXRUUG0waWZlM1RRRG5oNU03RXljV1dRQkVfVXpJEhdRS3dYYXNURUllU252cjBQNjl6WDhBWRoiQUpLTEZtTFkySnhjVllxaFAwRWdtbTNpUzNxWWtWSnVJURIEODEyNBoBMyoAMAA4AUAAGCogjoOd2AdKAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda"
+      ],
+      "delivery_providers": [
+        "foodpanda",
+        "Uber Eats"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "3133",
@@ -424,15 +469,21 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=3133",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=102",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E6%9E%97%E5%8F%A3%E4%B8%AD%E5%B1%B1%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%9E%97%E5%8F%A3%E5%8D%80%E4%B8%AD%E5%B1%B1%E8%B7%AF518%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E6%9E%97%E5%8F%A3%E4%B8%AD%E5%B1%B1%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%9E%97%E5%8F%A3%E5%8D%80%E4%B8%AD%E5%B1%B1%E8%B7%AF518%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVRjeGdVdWJZNnktSnFSVGZpV3A2SjJQQ3NJa19ZRHE1TG5NUXh4M3VaU3VxZEROTEw0bTExT0NBSGJKQTRyTkhiQTJuUklvQ1dJQktHTzdvcGVLSTR0YTVlMGNTdUNIR1BGbVc5RUd2Vmh3S2tyenZjEhcxNm9YYXByVkpfbUh2cjBQMW91anFRaxoiQUpLTEZtSTFIMkRfV0VpYU9LNnVUNl9VYWg5MlhoeWVFZxIEODEyNBoBMyoAMAA4AUAAGCog_aKL5glKAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda",
+        "Uber Eats"
+      ],
+      "delivery_providers": [
+        "foodpanda",
+        "Uber Eats"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "8926",
@@ -444,15 +495,15 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=8926",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=102",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E6%9E%97%E5%8F%A3%E7%AB%B9%E6%9E%97%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%9E%97%E5%8F%A3%E5%8D%80%E7%AB%B9%E6%9E%97%E8%B7%AF1-10%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
+      "gmb_url": "https://www.google.com/maps/search/?api=1&hl=zh-TW&gl=tw&query=%E8%8C%B6%E8%81%9ACHAGE%E6%9E%97%E5%8F%A3%E7%AB%B9%E6%9E%97%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%9E%97%E5%8F%A3%E5%8D%80%E7%AB%B9%E6%9E%97%E8%B7%AF1-10%E8%99%9F",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": false,
+      "has_delivery_order": false,
       "takeout_providers": [],
       "delivery_providers": [],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化查核 Google 搜尋與 Maps；未見「點餐外帶」或「點餐外送」按鈕。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "2606",
@@ -464,15 +515,21 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=2606",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=102&currentpage=3",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E6%B0%B8%E5%92%8C%E7%AB%B9%E6%9E%97%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%B0%B8%E5%92%8C%E5%8D%80%E7%AB%B9%E6%9E%97%E8%B7%AF41%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E6%B0%B8%E5%92%8C%E7%AB%B9%E6%9E%97%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%B0%B8%E5%92%8C%E5%8D%80%E7%AB%B9%E6%9E%97%E8%B7%AF41%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVRvS2s0c3hQZk9GSXdMd0FwdnVpRHJFeEYwMTVRZUNIT2NyM2tPZzF6WEI3ZEMxVGNWTUkxWlZjbWhrVHBEdVkzOGY5Ml94dzVfZ3JIdGJRdlQ0QzUyM08wVGxCMi1SQWxMbXZQb2RzYUZRZ1p0VmVrEhdiNndYYW9lRktjU2x2cjBQa3FQYm9BSRoiQUpLTEZtTFNoREd2cFp2OVZUbmtBdUlMNzZwdXgxTXNCQRIEODEyNBoBMyoAMAA4AUAAGCogn4vZogdKAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda",
+        "Uber Eats"
+      ],
+      "delivery_providers": [
+        "foodpanda",
+        "Uber Eats"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "1650",
@@ -484,15 +541,19 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=1650",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=102",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E6%B1%90%E6%AD%A2%E6%96%B0%E6%98%8C%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%B1%90%E6%AD%A2%E5%8D%80%E6%96%B0%E6%98%8C%E8%B7%AF78%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E6%B1%90%E6%AD%A2%E6%96%B0%E6%98%8C%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%B1%90%E6%AD%A2%E5%8D%80%E6%96%B0%E6%98%8C%E8%B7%AF78%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVFLeUJWbVRvZmJEVEtJREtzNzNob2FsSndKSnRuWUVHT1lVekU5YjJPQ1U2RXBQNDc5SHZlclNhQjVRSkdHcl8yMlpYVGN2eDJmUF94OHpmR0JFX1VHblJmNGZtd2ZMaGNOamdSUU80Vk5tYmdZQ1hREhdPYXNYYXJEckRPQ2t2cjBQaHE3azRBaxoiQUpLTEZtSTdTTENHZ0VxSlQ0Qmd1anNQUnctU3hDbEFfZxIEODEyNBoBMyoAMAA4AUAAGCogytiaoQ9KAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda"
+      ],
+      "delivery_providers": [
+        "foodpanda"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "726",
@@ -504,15 +565,22 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=726",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=102",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E6%B1%90%E6%AD%A2%E7%A6%8F%E5%BE%B7%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%B1%90%E6%AD%A2%E5%8D%80%E7%A6%8F%E5%BE%B7%E4%B8%80%E8%B7%AF165%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
-      "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E6%B1%90%E6%AD%A2%E7%A6%8F%E5%BE%B7%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%B1%90%E6%AD%A2%E5%8D%80%E7%A6%8F%E5%BE%B7%E4%B8%80%E8%B7%AF165%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVRHWW9oNWRLbE1ybjgyLUVYUjhpTW80emk2TEw2cEU1TWZfbkliTVdOSDNVdVJsa3A0bHFjT1RrdXI4eTFYR3JMZnh5aUs5eFdOeEd5TVc0UjZ5emZybk1IZGl5Q3pWdlhta3BFMkdfMVFNYWNLbUlBEhdWcXNYYXZhSUVjQ0p2cjBQaDlDTy1RcxoiQUpLTEZtSnlVSWJpSjh3U24yLVRUaXZfdWVsV0M0czJFURIEODEyNBoBMyoAMAA4AUAAGCogrMPjtwJKAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "lin.ee"
+      ],
+      "delivery_providers": [
+        "Uber Eats",
+        "lin.ee"
+      ],
+      "other_providers": [
+        "lin.ee"
+      ],
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "144",
@@ -524,15 +592,23 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=144",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=102&currentpage=3",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E9%B6%AF%E6%AD%8C%E5%BB%BA%E5%9C%8B%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E9%B6%AF%E6%AD%8C%E5%8D%80%E5%BB%BA%E5%9C%8B%E8%B7%AF233%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
-      "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E9%B6%AF%E6%AD%8C%E5%BB%BA%E5%9C%8B%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E9%B6%AF%E6%AD%8C%E5%8D%80%E5%BB%BA%E5%9C%8B%E8%B7%AF233%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVRZNWd0WUdZTGxBQzJOVXp0YkVGMDkzV1FteU1vYnRQRjNsNmxIR2E2NEJvQjBreTFWczNQRnJDUjB4VnN2cnZOWXNCZkJHalZqWWhySFB1TnE2NHlNWmVYYUNkQmh0azlOVWFEQzZRM1RseTFkZWVzEhdiNnNYYXJudEJJRE0xZThQaUlDSjJROBoiQUpLTEZtS3Z5LUlSWmtNenlHVll4ZHQtamI3WGJPcnlPdxIEODEyNBoBMyoAMAA4AUAAGCog_J3rvA1KAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda",
+        "lin.ee"
+      ],
+      "delivery_providers": [
+        "foodpanda",
+        "lin.ee"
+      ],
+      "other_providers": [
+        "lin.ee"
+      ],
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "138",
@@ -544,15 +620,19 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=138",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=114",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E6%96%B0%E7%AB%B9%E5%B7%A8%E5%9F%8E%E5%BA%97%20%E6%96%B0%E7%AB%B9%E5%B8%82%E6%B0%91%E6%AC%8A%E8%B7%AF146%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E6%96%B0%E7%AB%B9%E5%B7%A8%E5%9F%8E%E5%BA%97%20%E6%96%B0%E7%AB%B9%E5%B8%82%E6%B0%91%E6%AC%8A%E8%B7%AF146%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVJOMXJoTFhPamhTcXVYUjgyRkFZNktCTU5lQjNqZjFqT0EyZ0RGVEJZU2t4SFdBMTVVRmVDenh6WUFxMmtWSkN4OG5pdXdyXzR2QTZVdzZSUnVUTExVaktIQjNqZnVBdjE2Nm9SRVNhM1JHTVBQdmY0EhdJNlVYYW9uMk9PZUl2cjBQaXR5OXNRbxoiQUpLTEZtSTZZT3p4V296aEt1NXl5RVg1WGwtZnBxbzBfdxIEODEyNBoBMyoAMAA4AUAAGCog4MHCpwpKAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda"
+      ],
+      "delivery_providers": [
+        "foodpanda"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "2973",
@@ -564,15 +644,21 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=2973",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=114",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E6%96%B0%E8%B1%90%E4%B8%AD%E8%88%88%E5%BA%97%20%E6%96%B0%E7%AB%B9%E7%B8%A3%E6%96%B0%E8%B1%90%E9%84%89%E4%B8%AD%E8%88%88%E8%B7%AF191%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E6%96%B0%E8%B1%90%E4%B8%AD%E8%88%88%E5%BA%97%20%E6%96%B0%E7%AB%B9%E7%B8%A3%E6%96%B0%E8%B1%90%E9%84%89%E4%B8%AD%E8%88%88%E8%B7%AF191%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVNaU2c0S2VpTzc1Y1JSTEJmRld6RkR3RWNad2ZkVTZVTU5leW1tQi1WQjNZejZhOE5FVkxFYkQ0RW94c1AwandNUkhlSlVWZ3JkVEhtemo5UEFOdnFLRUh5ZVlKb1pGWEdKODZkMC1NZGRCRXdQNnlREhdoYXNYYW9xb0I2eV92cjBQelptTTRBOBoiQUpLTEZtSVViVXRTRVpfTHJDU205YnphNHhxRHYwajY5URIEODEyNBoBMyoAMAA4AUAAGCog1t-nEEoCEAE",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda",
+        "Uber Eats"
+      ],
+      "delivery_providers": [
+        "foodpanda",
+        "Uber Eats"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "2755",
@@ -584,15 +670,19 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=2755",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=114",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E6%B9%96%E5%8F%A3%E4%B8%AD%E6%AD%A3%E5%BA%97%20%E6%96%B0%E7%AB%B9%E7%B8%A3%E6%B9%96%E5%8F%A3%E9%84%89%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B561%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E6%B9%96%E5%8F%A3%E4%B8%AD%E6%AD%A3%E5%BA%97%20%E6%96%B0%E7%AB%B9%E7%B8%A3%E6%B9%96%E5%8F%A3%E9%84%89%E4%B8%AD%E6%AD%A3%E8%B7%AF%E4%B8%80%E6%AE%B561%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVJPb1pXM3JDdzc0MkJNN2RkNDdtQnJMWUJSZVBsLUlqejZZWkNLWWl2WkgxVXo4R1pXR283U0FtRVNzNUVWRVZLeVFvcTBYSTVVeXZiMkRRVk93Vmo5YWZFMXFTNFBMUnVDb24ybTdqWFFBelBpWkRjEhdZcVVYYXFlR0U0bmUxZThQaE0tVnVRYxoiQUpLTEZtSUN3WGhWZDcyQlNPY21DQ09hVlp2RWRQVXRPdxIEODEyNBoBMyoAMAA4AUAAGCogytHKiA5KAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda"
+      ],
+      "delivery_providers": [
+        "foodpanda"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "3692",
@@ -604,15 +694,15 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=3692",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=114",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E7%AB%B9%E5%8C%97%E6%AD%A3%E8%A5%BF%E5%BA%97%20%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E8%A5%BF%E8%B7%AF110%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
+      "gmb_url": "https://www.google.com/maps/search/?api=1&hl=zh-TW&gl=tw&query=%E8%8C%B6%E8%81%9ACHAGE%E7%AB%B9%E5%8C%97%E6%AD%A3%E8%A5%BF%E5%BA%97%20%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E8%A5%BF%E8%B7%AF110%E8%99%9F",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": false,
+      "has_delivery_order": false,
       "takeout_providers": [],
       "delivery_providers": [],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化查核 Google 搜尋與 Maps；未見「點餐外帶」或「點餐外送」按鈕。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "3280",
@@ -624,15 +714,20 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=3280",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=54&currentpage=2",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E4%B8%AD%E5%A3%A2%E7%92%B0%E4%B8%AD%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E4%B8%AD%E5%A3%A2%E5%8D%80%E7%92%B0%E4%B8%AD%E6%9D%B1%E8%B7%AF202%E8%99%9F1%E6%A8%93",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E4%B8%AD%E5%A3%A2%E7%92%B0%E4%B8%AD%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E4%B8%AD%E5%A3%A2%E5%8D%80%E7%92%B0%E4%B8%AD%E6%9D%B1%E8%B7%AF202%E8%99%9F1%E6%A8%93#sv=CAESzQEKuQEStgEKd0FNbjMteVM3UEk5WU5mNUdvb1BGcjdnU3RFT095ZDEtQjZHdnVqczVwX1l2RjFBQ01SeEs5elExeGlZSXZkelEzSWxPZjhlOTdtSFZ2M1VzVVgzUEh1WFgxRnQ5eDVVckhyWWhIbHhrcm5odXB3a05nVi1WcW9NEhdrYVVYYXFYc0ZLYjgxZThQM05QazJBZxoiQUpLTEZtS0pIcVYyUzhYbUwxV05sSXNDYWU0OGdPb0xGQRIEODEyNBoBMyoAMAA4AUAAGCogu6jFmw9KAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "Uber Eats"
+      ],
+      "delivery_providers": [
+        "foodpanda",
+        "Uber Eats"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "936",
@@ -644,15 +739,21 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=936",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=54&currentpage=5",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E4%B8%AD%E5%A3%A2%E7%A6%8F%E5%B7%9E%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E4%B8%AD%E5%A3%A2%E5%8D%80%E7%A6%8F%E5%B7%9E%E4%BA%8C%E8%A1%97383%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E4%B8%AD%E5%A3%A2%E7%A6%8F%E5%B7%9E%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E4%B8%AD%E5%A3%A2%E5%8D%80%E7%A6%8F%E5%B7%9E%E4%BA%8C%E8%A1%97383%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVQ3TzZzYzRReEo5enFuVExpRXgzb1FiT09Rc0UteWp2LTdYcnBJYjI3VTVIOXR1TndaeUJKSllDbWNQaGU3TzR1UFR0RDZ4SXJpdjN0VEUwZGdpUXQ2UXZoYnFXdm9BX0dkS3FxNEJqREZ5bmdNSHNNEhdwNlVYYXVfaE5lYnQxZThQOF9LTW9RNBoiQUpLTEZtSW43MWZFZUlIQ2YzdUxkbG52Q2JCN0dIOEF0ZxIEODEyNBoBMyoAMAA4AUAAGCog3J_H9gRKAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda",
+        "Uber Eats"
+      ],
+      "delivery_providers": [
+        "foodpanda",
+        "Uber Eats"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "1706",
@@ -664,15 +765,19 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=1706",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=54&currentpage=4",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E4%B8%AD%E5%A3%A2%E9%9D%92%E5%9F%94%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E4%B8%AD%E5%A3%A2%E5%8D%80%E9%9D%92%E5%9F%94%E4%B9%9D%E8%A1%9742%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E4%B8%AD%E5%A3%A2%E9%9D%92%E5%9F%94%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E4%B8%AD%E5%A3%A2%E5%8D%80%E9%9D%92%E5%9F%94%E4%B9%9D%E8%A1%9742%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVJPTWowU1dpemZkVDFrVVc5cm42ZHBnb1N3YUZONGJSdmw2SDVwY19rdlU1TGdTYUU5MWF1S2w4em9nXzhCWWFpSDhFSU9QclUzNFFRQUFzSUw2U0d6ZlEzcmQyOEhmYTFWODg4LVZtR2VLZzJfZzRjEhd2cVVYYXJLd0ZPdVV2cjBQb3RLZjZRaxoiQUpLTEZtTHpJLVdDUXBWZnZwdGhaUzlkQUsyY0huaGJzURIEODEyNBoBMyoAMAA4AUAAGCogpurKiAZKAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda"
+      ],
+      "delivery_providers": [
+        "foodpanda"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "1562",
@@ -684,15 +789,23 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=1562",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=54&currentpage=4",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E5%85%AB%E5%BE%B7%E4%BB%8B%E5%A3%BD%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E5%85%AB%E5%BE%B7%E5%8D%80%E5%BB%BA%E5%9C%8B%E8%B7%AF1211%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
-      "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E5%85%AB%E5%BE%B7%E4%BB%8B%E5%A3%BD%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E5%85%AB%E5%BE%B7%E5%8D%80%E5%BB%BA%E5%9C%8B%E8%B7%AF1211%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVFyV3RMelNtUlpDeTFvc1g4clllTlNKZTdxMUs3LXByemFsVV9yODU2RXhIVHotejdJZldRWjczb3JmWTdCUnUxWkQ3aGhhLW5FNVExWUU0RDBKRWNlWWQtTzVPV0pvS0NxMGNlMkRPUElxWnRvRW13EhczNlVYYXVPT0lLYmwxZThQejRDMGtRSRoiQUpLTEZtTC1yS0J2MmZleVFQUEFYUU9qV1ZVbHNiTlJJdxIEODEyNBoBMyoAMAA4AUAAGCogx_6R8A1KAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "lin.ee"
+      ],
+      "delivery_providers": [
+        "foodpanda",
+        "Uber Eats",
+        "lin.ee"
+      ],
+      "other_providers": [
+        "lin.ee"
+      ],
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "3686",
@@ -704,15 +817,21 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=3686",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=54&currentpage=2",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E5%A4%A7%E5%9C%92%E5%92%8C%E5%B9%B3%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E5%9C%92%E5%8D%80%E5%92%8C%E5%B9%B3%E6%9D%B1%E8%B7%AF90%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E5%A4%A7%E5%9C%92%E5%92%8C%E5%B9%B3%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E5%9C%92%E5%8D%80%E5%92%8C%E5%B9%B3%E6%9D%B1%E8%B7%AF90%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVIyajRYY1RnaEVRamF5T0NYRl9rVXdGalBna3JuSVhIVmFJdjJDMlNlQkE0S2YyS3lkSV9DY1oyTXRObUFLWDFOSXllbTlyRC1Vc1dMVWh3aWVmenA2TWZWM0IxN2h0aHZmS0xldEpDSnhTY1VnMWtZEhctYVVYYXNPSU1OLXB2cjBQZzl1MS1RZxoiQUpLTEZtSmtxSHlsWERjdWdzZlJYVUNvNzNwcE1tdXFKQRIEODEyNBoBMyoAMAA4AUAAGCoggpq82gRKAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda",
+        "Uber Eats"
+      ],
+      "delivery_providers": [
+        "foodpanda",
+        "Uber Eats"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "3345",
@@ -724,15 +843,15 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=3345",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=54&currentpage=2",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E5%B9%B3%E9%8E%AE%E7%BE%A9%E6%B0%91%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E5%B9%B3%E9%8E%AE%E5%8D%80%E7%BE%A9%E6%B0%91%E8%B7%AF239%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
+      "gmb_url": "https://www.google.com/maps/search/?api=1&hl=zh-TW&gl=tw&query=%E8%8C%B6%E8%81%9ACHAGE%E5%B9%B3%E9%8E%AE%E7%BE%A9%E6%B0%91%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E5%B9%B3%E9%8E%AE%E5%8D%80%E7%BE%A9%E6%B0%91%E8%B7%AF239%E8%99%9F",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": false,
+      "has_delivery_order": false,
       "takeout_providers": [],
       "delivery_providers": [],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化查核 Google 搜尋與 Maps；未見「點餐外帶」或「點餐外送」按鈕。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "2779",
@@ -744,15 +863,20 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=2779",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=54&currentpage=3",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E6%A1%83%E5%9C%92%E4%B8%AD%E6%AD%A3%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF534%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E6%A1%83%E5%9C%92%E4%B8%AD%E6%AD%A3%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF534%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVN5bDEybnhkY2RSb2ZjaXRfX3cxT1RNWV9hMkl3OTlIUjdvUENLdzNMaVhObmdFanpPd1locmFiSEtmS1ZWb01QQVV2ZmtQaGFvanhkaUVhdUFEVXBYSmhFMjExbWhjTlFxZHg5RlhWaEkwaXZLTXBvEhdPNllYYXV5SEw1UGMxZThQbGFPaHdRVRoiQUpLTEZtSVoyVVZEWVNWVkpiYm5RMVNPemVnVW51Mmd2QRIEODEyNBoBMyoAMAA4AUAAGCog5qO_4AdKAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda"
+      ],
+      "delivery_providers": [
+        "foodpanda",
+        "Uber Eats"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "123",
@@ -764,15 +888,21 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=123",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=54&currentpage=4",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E6%A1%83%E5%9C%92%E4%B8%AD%E8%8F%AF%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E5%8D%80%E4%B8%AD%E8%8F%AF%E8%B7%AF34%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
-      "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E6%A1%83%E5%9C%92%E4%B8%AD%E8%8F%AF%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E5%8D%80%E4%B8%AD%E8%8F%AF%E8%B7%AF34%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVJZNEQ4NjdBU3F1a1NLNnlMNFVFVXpBRkVGR205a2k3UHY3NW50M0NjV2p3dTgzSTJlaHJFaF9rNkg3eGpFeDZRZGR4NkxWNl9lOWhIUndhZm5SOTBKRzkxN1NtUkZRSXVNTDBwSDZkQjJtcm9nb05rEhdYYVlYYXRfVUpiX2MxZThQejk2QzZRVRoiQUpLTEZtS1RJMGNOcjBjSHNMT19ORjVIOHlIdE03dURaURIEODEyNBoBMyoAMAA4AUAAGCog25WR-Q1KAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "lin.ee"
+      ],
+      "delivery_providers": [
+        "lin.ee"
+      ],
+      "other_providers": [
+        "lin.ee"
+      ],
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "555",
@@ -784,15 +914,22 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=555",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=54&currentpage=3",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E6%A1%83%E5%9C%92%E5%8D%97%E5%B4%81%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B7%BF%E9%BE%9C%E5%B1%B1%E5%8D%80%E5%8D%97%E4%B8%8A%E8%B7%AF66%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
-      "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E6%A1%83%E5%9C%92%E5%8D%97%E5%B4%81%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B7%BF%E9%BE%9C%E5%B1%B1%E5%8D%80%E5%8D%97%E4%B8%8A%E8%B7%AF66%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVFMOWhVSEhWcjJtNlNyMm1fSTJQTDM2c1YtZ0hicTFxd3E0cGxNZWx1eEUzTnJuVk5HOGpaeGI0TzFHQ1FMazVOOUs0cGlOMUR2ckYwZmJoblNDc1Jxd3NfeXI5S1RiX0N2SU9VUWRNSDRMU2ZkY2xjEhdpcVlYYXRTd0F2SHcxZThQNTRuMHVBSRoiQUpLTEZtSTdES3JJVXAzTGRBcm5RdXpla3p3UXVmVVJ1URIEODEyNBoBMyoAMAA4AUAAGCogqIfTzwFKAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "lin.ee"
+      ],
+      "delivery_providers": [
+        "Uber Eats",
+        "lin.ee"
+      ],
+      "other_providers": [
+        "lin.ee"
+      ],
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "2630",
@@ -804,15 +941,19 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=2630",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=54&currentpage=4",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E6%A1%83%E5%9C%92%E5%BB%B6%E5%B9%B3%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E5%8D%80%E5%BB%B6%E5%B9%B3%E8%B7%AF167%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E6%A1%83%E5%9C%92%E5%BB%B6%E5%B9%B3%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E5%8D%80%E5%BB%B6%E5%B9%B3%E8%B7%AF167%E8%99%9F#sv=CAESzAEKuAEStQEKd0FNbjMteVNBOGtqZ18wSm9xamlHaHJkY096NmJ6UkM1M3MyMUJxaHhuUU1YZXk1UTZvVTM0SG5rX1FXeHRfRDhJTl9UMF91ZmJ2TUI1RUY3YmUtX2JEZFdzVTNXdG1zOE9rNDBKMGdhcnA0YndjQUxzQmtiTE9jEhZvNllYYXM3RFBNblcxZThQNEx6cFlBGiJBSktMRm1JUmFSUk03c3JxVGs3LXJobzdNV2NWakNWMm1BEgQ4MTI0GgEzKgAwADgBQAAYKiDJrMKXBUoCEAE",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda"
+      ],
+      "delivery_providers": [
+        "foodpanda"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "2500",
@@ -824,15 +965,23 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=2500",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=54&currentpage=3",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E6%A1%83%E5%9C%92%E6%88%90%E5%8A%9F%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E5%8D%80%E6%88%90%E5%8A%9F%E8%B7%AF%E4%B8%80%E6%AE%B525%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
-      "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E6%A1%83%E5%9C%92%E6%88%90%E5%8A%9F%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E5%8D%80%E6%88%90%E5%8A%9F%E8%B7%AF%E4%B8%80%E6%AE%B525%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVR6SzZGVERjZVh0elpaLVhoWUszcjJyR2UyQ2FJTGljTElYQ0hzOW1FNUwxRklqaVRCa2RMUFlpcHBkaGZfT3Flb25qdi1VT1UtR2Zrd1RBMEJjdUEzWHpzNzVTMURpNzNjYVFkVnNMbmtjRWtvTHpZEhd4S1lYYXNUT0ZJWEwxZThQNk5PYm9BTRoiQUpLTEZtSU45d28zRjBXR3JhZEtFajM1d1NmSlBDWWlXURIEODEyNBoBMyoAMAA4AUAAGCog9_XmkgVKAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda",
+        "lin.ee"
+      ],
+      "delivery_providers": [
+        "foodpanda",
+        "lin.ee"
+      ],
+      "other_providers": [
+        "lin.ee"
+      ],
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "3938",
@@ -844,15 +993,21 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=3938",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=54",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E6%A5%8A%E6%A2%85%E5%A4%A7%E6%88%90%E5%BA%97%20%E6%A5%8A%E6%A2%85%E5%8D%80%E5%A4%A7%E6%88%90%E8%B7%AF164%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E6%A5%8A%E6%A2%85%E5%A4%A7%E6%88%90%E5%BA%97%20%E6%A5%8A%E6%A2%85%E5%8D%80%E5%A4%A7%E6%88%90%E8%B7%AF164%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVJaWXZvbWdBVm9DbU1EZUd5QVJVR05NZkM3OWZMdWRYbDFtR0xpclZNYTFrMi1lMEEtS1dSX3F2cUZJdTJ5NTZHTGxyRWVZWElkTEE1NllYeXJQcDJ1WFVLQURxN29PeG1KLW1VQnRBczFHSVpQOHhnEhd0NmtYYXBQakhxYmgycm9QdGN2ZGlBWRoiQUpLTEZtS2tsdjNxcWVqMzhsTW5PcDQ2OFRiUXY4Q3VQdxIEODEyNBoBMyoAMAA4AUAAGCoggteWwQtKAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda",
+        "Uber Eats"
+      ],
+      "delivery_providers": [
+        "foodpanda",
+        "Uber Eats"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "3181",
@@ -864,15 +1019,19 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=3181",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=54&currentpage=3",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E8%98%86%E7%AB%B9%E5%A4%A7%E7%AB%B9%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E8%98%86%E7%AB%B9%E5%8D%80%E5%A4%A7%E7%AB%B9%E8%B7%AF413%E8%99%9F1%E6%A8%93",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E8%98%86%E7%AB%B9%E5%A4%A7%E7%AB%B9%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E8%98%86%E7%AB%B9%E5%8D%80%E5%A4%A7%E7%AB%B9%E8%B7%AF413%E8%99%9F1%E6%A8%93#sv=CAESzQEKuQEStgEKd0FNbjMteVRKSkszY2ZLeVpHX19rTEVzTEl4SGxmNF9OVUFCUGltM3FVb2ZrcVU3VmhTMFJEOXNlNHNiTVp4V1ZWdWtGcUo5Y1duaEl0Q1ZycXdqbnJVRzhQQzhpajZrS2FMNDlXWWZlSTlScGJneENQZFZ5OTdjEhd6cWtYYXBXTU03YW8ycm9QbVlHczhRVRoiQUpLTEZtTGVSNk5MSER5d3BwSjBDQzdCOGJmX0dtdkFSZxIEODEyNBoBMyoAMAA4AUAAGCogsYGEtAZKAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda"
+      ],
+      "delivery_providers": [
+        "foodpanda"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "8517",
@@ -884,15 +1043,19 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=8517",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=54",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E8%A7%80%E9%9F%B3%E6%88%90%E5%8A%9F%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E8%A7%80%E9%9F%B3%E5%8D%80%E6%88%90%E5%8A%9F%E8%B7%AF%E4%BA%8C%E6%AE%B5863%E8%99%9F1F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E8%A7%80%E9%9F%B3%E6%88%90%E5%8A%9F%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E8%A7%80%E9%9F%B3%E5%8D%80%E6%88%90%E5%8A%9F%E8%B7%AF%E4%BA%8C%E6%AE%B5863%E8%99%9F1F#sv=CAESzQEKuQEStgEKd0FNbjMteVRrR0JOTEZTN0VvZHFmUWlTYW9XWTZYcFZxNzlPUFktSWJWU2cycVNpZENTVmZsanNxM3FSM1IzRVBZQW10MThvVlB3MEpwcDd5RnlSR2RpeHlUN3poTUxvX1BaUWdRQkRUUG9SUUZmc1Y5dzY4NmNNEhdtS3NYYXJXa01ONll2cjBQLXUzcXlRaxoiQUpLTEZtS3dkWk55cXJsTmQtUHJjTmpWLV9jSUt1LWRiQRIEODEyNBoBMyoAMAA4AUAAGCog8vL_qgtKAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda"
+      ],
+      "delivery_providers": [
+        "foodpanda"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "3722",
@@ -904,15 +1067,15 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=3722",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=54",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E9%BE%9C%E5%B1%B1%E5%BE%A9%E8%88%88%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E9%BE%9C%E5%B1%B1%E5%8D%80%E5%BE%A9%E8%88%88%E4%BA%8C%E8%B7%AF103%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
+      "gmb_url": "https://www.google.com/maps/search/?api=1&hl=zh-TW&gl=tw&query=%E8%8C%B6%E8%81%9ACHAGE%E9%BE%9C%E5%B1%B1%E5%BE%A9%E8%88%88%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E9%BE%9C%E5%B1%B1%E5%8D%80%E5%BE%A9%E8%88%88%E4%BA%8C%E8%B7%AF103%E8%99%9F",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": false,
+      "has_delivery_order": false,
       "takeout_providers": [],
       "delivery_providers": [],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化查核 Google 搜尋與 Maps；未見「點餐外帶」或「點餐外送」按鈕。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "3299",
@@ -924,15 +1087,19 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=3299",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=54&currentpage=2",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E9%BE%9C%E5%B1%B1%E6%96%87%E8%88%88%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E9%BE%9C%E5%B1%B1%E5%8D%80%E6%96%87%E8%88%88%E8%B7%AF88%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E9%BE%9C%E5%B1%B1%E6%96%87%E8%88%88%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E9%BE%9C%E5%B1%B1%E5%8D%80%E6%96%87%E8%88%88%E8%B7%AF88%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVJqS0w3NktmT2VETVhQVnd4eVZ2LUVKU2Q0WHEzY3IxSUhKUzVNZmlXMGJoWmpUbmtJX2ZxYmJNSUJsVS15VVlFcW1wMUZpdkRkY3BnSnFZUkNqbzhfZ1Q5WElrdGFzamhlRXVmVEtvOERMQ2xnNV93EhdVcWdYYXJheUxyU1p2cjBQaVBpX3FBZxoiQUpLTEZtSzQzOWlESkZ2VFViRXlLelY4dnJpV0x5enhHQRIEODEyNBoBMyoAMAA4AUAAGCog5dvdngJKAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda"
+      ],
+      "delivery_providers": [
+        "foodpanda"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "8826",
@@ -944,15 +1111,19 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=8826",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=54",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E9%BE%9C%E5%B1%B1%E6%A8%82%E5%96%84%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E9%BE%9C%E5%B1%B1%E5%8D%80%E6%A8%82%E5%96%84%E4%BA%8C%E8%B7%AF537%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E9%BE%9C%E5%B1%B1%E6%A8%82%E5%96%84%E5%BA%97%20%E6%A1%83%E5%9C%92%E5%B8%82%E9%BE%9C%E5%B1%B1%E5%8D%80%E6%A8%82%E5%96%84%E4%BA%8C%E8%B7%AF537%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVE3QlUzeHk1eGlrOTRvaTJhZS1pZjMxRFVzN0g2azJnMlhDNDM1dTJxZHd3TnZGdXYzam9RbmtqeWpZdkxVMXJpcmdBb0doN1ZwQ0o2R3U2dHgtZjV4V2hsNkhVY2tLRjlJYTFScU03LUdtMFU3SXAwEhdjNmdYYXRyX0VLUzB2cjBQMmJtRTZBYxoiQUpLTEZtTEQtR210WkVqR0ZSbmk2X3FuTXV5eEhNVmdJdxIEODEyNBoBMyoAMAA4AUAAGCogk46ylQtKAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda"
+      ],
+      "delivery_providers": [
+        "foodpanda"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "8896",
@@ -964,15 +1135,20 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=8896",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=108",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E8%8A%B1%E8%93%AE%E5%9C%8B%E8%81%AF%E5%BA%97%20%E8%8A%B1%E8%93%AE%E5%B8%82%E5%9C%8B%E8%81%AF%E4%BA%8C%E8%B7%AF148%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E8%8A%B1%E8%93%AE%E5%9C%8B%E8%81%AF%E5%BA%97%20%E8%8A%B1%E8%93%AE%E5%B8%82%E5%9C%8B%E8%81%AF%E4%BA%8C%E8%B7%AF148%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVNpNTBEOU52X2p2aHpUemZIVWF6Z2twVkxBV256UU5Hbm5RM3hZdHR0cHZ3aE85TlZNVERwQzlhYVNUVFdsWFZjd2tWR3RTdG5mRjl3ZTVKajB3UmdualR1T2ZQeUVBWUZyQW10aXBQcDd4UzVoSHdVEhdrS2dYYXR1Q09LTGUycm9QclpTTm1BWRoiQUpLTEZtSjE4QV9zNjZycGpiNnRLLUxsQk9kVmdiSjU1dxIEODEyNBoBMyoAMAA4AUAAGCog_aaSrw5KAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda"
+      ],
+      "delivery_providers": [
+        "foodpanda",
+        "Uber Eats"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "8726",
@@ -984,15 +1160,20 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=8726",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=108",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E8%8A%B1%E8%93%AE%E6%B0%91%E5%9C%8B%E5%BA%97%20%E8%8A%B1%E8%93%AE%E5%B8%82%E6%B0%91%E5%9C%8B%E8%B7%AF32-2%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E8%8A%B1%E8%93%AE%E6%B0%91%E5%9C%8B%E5%BA%97%20%E8%8A%B1%E8%93%AE%E5%B8%82%E6%B0%91%E5%9C%8B%E8%B7%AF32-2%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVJ0c2MtM3JhM29NRkxBOXFlWWNic0J0UHduSzNDTzVDVE5CLU4zaVBXUXp3OVl4aldha2N6MU1sREFBYk50dTFBWFFpR2VhWXJCb1EwTjJVenV1MmVFLXdXN2ZEQ2hRVEo5ZGIwMUJLeF9ZdXpYQ0tnEhdwYWdYYXZiTkxKT012cjBQcmRfVG1RWRoiQUpLTEZtSUN2ZUN5d0IxMmNEamF5dms2ZXd0cWlBcWlVZxIEODEyNBoBMyoAMAA4AUAAGCog7vzw_QtKAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda"
+      ],
+      "delivery_providers": [
+        "foodpanda",
+        "Uber Eats"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "3698",
@@ -1004,15 +1185,20 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=3698",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=108",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E8%8A%B1%E8%93%AE%E8%93%AE%E6%88%90%E5%BA%97%20%E8%8A%B1%E8%93%AE%E5%B8%82%E4%B8%AD%E8%8F%AF%E8%B7%AF268-1%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E8%8A%B1%E8%93%AE%E8%93%AE%E6%88%90%E5%BA%97%20%E8%8A%B1%E8%93%AE%E5%B8%82%E4%B8%AD%E8%8F%AF%E8%B7%AF268-1%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVFTSU5QM0xWUEdfakEyWTBmUVV4blhsbGlBRlNzeUR1aUxVTXlRWnYyeEtGVmc5WFRXVWM4OWhJb1lWcS0ydWx3S0ZiSXJuVFBSZ2N1c1Zsdmp2S3FUd183aWhhWGxoR2ZzNGpXWEpnaTVNWVpwR2VvEhd1YWdYYXJEVU9vbmsycm9Qd0wtYmtBWRoiQUpLTEZtSktRWmxTVXN5ajFxcXJoM09tQW5XaTRlRkk3URIEODEyNBoBMyoAMAA4AUAAGCog5oCTzQVKAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "Uber Eats"
+      ],
+      "delivery_providers": [
+        "foodpanda",
+        "Uber Eats"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "2738",
@@ -1024,15 +1210,15 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=2738",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=126",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E8%8B%97%E6%A0%97%E5%BE%8C%E9%BE%8D%E5%BA%97%20%E8%8B%97%E6%A0%97%E7%B8%A3%E5%BE%8C%E9%BE%8D%E9%8E%AE%E4%B8%AD%E9%BE%8D%E9%87%8C%E4%B8%AD%E5%8C%97%E8%A1%97250%E4%B9%8B7%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
+      "gmb_url": "https://www.google.com/maps/search/?api=1&hl=zh-TW&gl=tw&query=%E8%8C%B6%E8%81%9ACHAGE%E8%8B%97%E6%A0%97%E5%BE%8C%E9%BE%8D%E5%BA%97%20%E8%8B%97%E6%A0%97%E7%B8%A3%E5%BE%8C%E9%BE%8D%E9%8E%AE%E4%B8%AD%E9%BE%8D%E9%87%8C%E4%B8%AD%E5%8C%97%E8%A1%97250%E4%B9%8B7%E8%99%9F",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": false,
+      "has_delivery_order": false,
       "takeout_providers": [],
       "delivery_providers": [],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化查核 Google 搜尋與 Maps；未見「點餐外帶」或「點餐外送」按鈕。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "150",
@@ -1044,15 +1230,19 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=150",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=126",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E8%8B%97%E6%A0%97%E6%96%B0%E8%8B%97%E5%BA%97%20%E8%8B%97%E6%A0%97%E5%B8%82%E6%96%B0%E8%8B%97%E8%A1%9791%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E8%8B%97%E6%A0%97%E6%96%B0%E8%8B%97%E5%BA%97%20%E8%8B%97%E6%A0%97%E5%B8%82%E6%96%B0%E8%8B%97%E8%A1%9791%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVJxMkVyNjFGSUtIQU9CQTB0WGE1a3o4TV96SGxpNDhpTC1sSThpWFJydllXUXVrY1VXT0licFdCb2M5dmtzeFRHNzBLQXFIQjdqbndON3YyeWxVcDlXN1l1RDZwdG1Sa0Z4aEhwb3FRbXpGQjBVclZvEhc5cWdYYXZlcUlkeTIycm9Qc3RPeTJRVRoiQUpLTEZtSWNNdUxidEJjS1E0Wms3R05BbHYtM21YLW1NQRIEODEyNBoBMyoAMAA4AUAAGCogw7uezQNKAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda"
+      ],
+      "delivery_providers": [
+        "foodpanda"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "8836",
@@ -1064,15 +1254,23 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=8836",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=126",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E9%A0%AD%E4%BB%BD%E4%B8%AD%E5%A4%AE%E5%BA%97%20%E8%8B%97%E6%A0%97%E7%B8%A3%E9%A0%AD%E4%BB%BD%E5%B8%82%E4%B8%AD%E5%A4%AE%E8%B7%AF146%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
-      "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E9%A0%AD%E4%BB%BD%E4%B8%AD%E5%A4%AE%E5%BA%97%20%E8%8B%97%E6%A0%97%E7%B8%A3%E9%A0%AD%E4%BB%BD%E5%B8%82%E4%B8%AD%E5%A4%AE%E8%B7%AF146%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVRia3ZlS2VaTm93dThhMG1VeW54dEl1ODlBc3VzVHVvRFVJM00zVk1GZWZIaE1YbjltUVRNdGZEUmpBRUM3M090eG9odWhoUzBjblZBeGlXcVdfMzFLSjVsUXNZZXUxTDFtWnJVWm1rNnRDTC1YSHNNEhdFYWtYYXJPWElaRE0xZThQNXJiN3NBMBoiQUpLTEZtSUJfSU5NcG1xemJPTGdJbzJGYmYwLVFvdTNlURIEODEyNBoBMyoAMAA4AUAAGCog_YOSrg9KAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda",
+        "lin.ee"
+      ],
+      "delivery_providers": [
+        "foodpanda",
+        "lin.ee"
+      ],
+      "other_providers": [
+        "lin.ee"
+      ],
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     },
     {
       "official_id": "91",
@@ -1084,15 +1282,19 @@
       "official_url": "https://www.chage.com.tw/edcontent_d.php?lang=tw&tb=3&id=91",
       "source_list_url": "https://www.chage.com.tw/edcontent.php?lang=tw&tb=3&cid=84",
       "gmb_name": "",
-      "gmb_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E8%81%9ACHAGE%E9%B3%B3%E5%B1%B1%E4%BA%94%E7%94%B2%E5%BA%97%20%E9%AB%98%E9%9B%84%E5%B8%82%E9%B3%B3%E5%B1%B1%E5%8D%80%E4%BA%94%E7%94%B2%E4%B8%89%E8%B7%AF15%E8%99%9F",
-      "gmb_status": "待查核",
-      "has_takeout_order": null,
-      "has_delivery_order": null,
-      "takeout_providers": [],
-      "delivery_providers": [],
+      "gmb_url": "https://www.google.com/search?hl=zh-TW&gl=tw&q=%E8%8C%B6%E8%81%9ACHAGE%E9%B3%B3%E5%B1%B1%E4%BA%94%E7%94%B2%E5%BA%97%20%E9%AB%98%E9%9B%84%E5%B8%82%E9%B3%B3%E5%B1%B1%E5%8D%80%E4%BA%94%E7%94%B2%E4%B8%89%E8%B7%AF15%E8%99%9F#sv=CAESzQEKuQEStgEKd0FNbjMteVNEeTRTU2dCZWJjLW5EdTFELWR2UHctaVFydHZPX25vbjdwRXpZMVBKWlpLRDViR1NSaFJDSktyUEZIeXZZb1lHeEI5dENvRTdpRFFNLXZ3cThiZ2hJa2FJQU9DQXpRS0pTbDZOelBlSUZKWFlqTWdBEhdKNmtYYXFhX0d0WE0xZThQaDRHQndRdxoiQUpLTEZtTGE0dW5NakVNUE14UXhyR0JPTHhSQVhZSnladxIEODEyNBoBMyoAMAA4AUAAGCogy87cvwtKAhAB",
+      "gmb_status": "已自動查核",
+      "has_takeout_order": true,
+      "has_delivery_order": true,
+      "takeout_providers": [
+        "foodpanda"
+      ],
+      "delivery_providers": [
+        "foodpanda"
+      ],
       "other_providers": [],
-      "verification_note": "已建立 Google Maps 查詢連結；尚未逐店確認 GMB 點餐彈窗。",
-      "verified_at": ""
+      "verification_note": "以 Chrome 自動化開啟 Google Maps 商家檔案並讀取點餐彈窗。",
+      "verified_at": "2026-05-28"
     }
   ]
 }
