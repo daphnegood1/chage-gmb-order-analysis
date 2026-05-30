@@ -91,6 +91,36 @@ main {
   margin: 28px auto 40px;
 }
 
+.site-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  margin-bottom: 18px;
+  padding: 18px 20px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+
+.site-controls label {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.site-controls select {
+  max-width: 260px;
+}
+
+.control-copy {
+  margin-bottom: 0;
+  color: var(--muted);
+  font-size: 13px;
+}
+
 .metrics {
   display: grid;
   grid-template-columns: repeat(5, minmax(0, 1fr));
@@ -303,8 +333,17 @@ footer {
 
 @media (max-width: 900px) {
   .topbar,
+  .site-controls,
   .table-tools {
     flex-direction: column;
+  }
+
+  .site-controls {
+    align-items: stretch;
+  }
+
+  .site-controls select {
+    max-width: none;
   }
 
   .meta {

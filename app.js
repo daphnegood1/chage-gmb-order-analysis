@@ -9,6 +9,25 @@ const providerColors = {
   "lin.ee": "var(--blue)",
 };
 
+const cityLabels = {
+  台中門市: "台中市",
+  台北門市: "台北市",
+  台南門市: "台南市",
+  宜蘭門市: "宜蘭縣",
+  花蓮門市: "花蓮縣",
+  苗栗門市: "苗栗縣",
+  桃園門市: "桃園市",
+  高雄門市: "高雄市",
+  基隆門市: "基隆市",
+  新北門市: "新北市",
+  新竹門市: "新竹縣市",
+  彰化門市: "彰化縣",
+};
+
+function cityLabel(value) {
+  return cityLabels[value] || value;
+}
+
 function boolLabel(value) {
   if (value === true) return "有";
   if (value === false) return "無";
@@ -33,8 +52,21 @@ function confirmedStores() {
   return state.stores.filter((store) => store.gmb_status === "已人工確認" || store.gmb_status === "已自動查核");
 }
 
+function selectedCity() {
+  const globalFilter = document.getElementById("globalCityFilter");
+  const tableFilter = document.getElementById("cityFilter");
+  return (globalFilter && globalFilter.value) || (tableFilter && tableFilter.value) || "";
+}
+
+function scopedStores() {
+  const city = selectedCity();
+  return city ? state.stores.filter((store) => store.city_group === city) : state.stores;
+}
+
 function calculateStats() {
-  const confirmed = confirmedStores();
+  const stores = scopedStores();
+  const storeSet = new Set(stores);
+  const confirmed = confirmedStores().filter((store) => storeSet.has(store));
   const takeoutProviderCounts = new Map();
   const deliveryProviderCounts = new Map();
 
@@ -48,9 +80,9 @@ function calculateStats() {
   }
 
   return {
-    total: state.stores.length,
+    total: stores.length,
     confirmed: confirmed.length,
-    pending: state.stores.length - confirmed.length,
+    pending: stores.length - confirmed.length,
     takeout: confirmed.filter((store) => store.has_takeout_order === true).length,
     delivery: confirmed.filter((store) => store.has_delivery_order === true).length,
     takeoutProviderCounts,
@@ -120,14 +152,18 @@ function renderCharts() {
 }
 
 function fillFilters() {
+  const globalCityFilter = document.getElementById("globalCityFilter");
   const cityFilter = document.getElementById("cityFilter");
   const statusFilter = document.getElementById("statusFilter");
+  const cityFilters = [globalCityFilter, cityFilter].filter(Boolean);
 
   for (const city of unique(state.stores.map((store) => store.city_group))) {
-    const option = document.createElement("option");
-    option.value = city;
-    option.textContent = city;
-    cityFilter.appendChild(option);
+    for (const filter of cityFilters) {
+      const option = document.createElement("option");
+      option.value = city;
+      option.textContent = cityLabel(city);
+      filter.appendChild(option);
+    }
   }
 
   for (const status of unique(state.stores.map((store) => store.gmb_status))) {
@@ -140,7 +176,7 @@ function fillFilters() {
 
 function matchesFilters(store) {
   const query = document.getElementById("searchInput").value.trim().toLowerCase();
-  const city = document.getElementById("cityFilter").value;
+  const city = selectedCity();
   const status = document.getElementById("statusFilter").value;
   const haystack = [
     store.official_name,
@@ -176,7 +212,7 @@ function renderRows() {
     row.innerHTML = `
       <td>
         <div class="store-name">${store.official_name}</div>
-        <div class="small">${store.city_group}</div>
+        <div class="small">${cityLabel(store.city_group)}</div>
       </td>
       <td>${store.address || '<span class="small">未提供</span>'}</td>
       <td>
@@ -203,7 +239,20 @@ function renderRows() {
 }
 
 function bindEvents() {
-  for (const id of ["searchInput", "cityFilter", "statusFilter"]) {
+  const syncCityFilters = (value) => {
+    for (const id of ["globalCityFilter", "cityFilter"]) {
+      const element = document.getElementById(id);
+      if (element) element.value = value;
+    }
+    renderCharts();
+    renderRows();
+  };
+
+  for (const id of ["globalCityFilter", "cityFilter"]) {
+    document.getElementById(id).addEventListener("input", (event) => syncCityFilters(event.target.value));
+  }
+
+  for (const id of ["searchInput", "statusFilter"]) {
     document.getElementById(id).addEventListener("input", renderRows);
   }
 }
