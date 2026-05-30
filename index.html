@@ -55,6 +55,34 @@
         </article>
       </section>
 
+      <section class="location-panel" aria-label="縣市與區域門市分布">
+        <div class="panel-head">
+          <div>
+            <h2>台灣縣市門市分布</h2>
+            <p class="panel-copy">每個縣市的門市數直接標在地圖上，未設店縣市顯示 0。</p>
+          </div>
+          <span>官方門市數</span>
+        </div>
+        <div id="regionSummary" class="region-summary"></div>
+        <div class="map-layout">
+          <div class="taiwan-map" aria-label="台灣縣市門市數地圖">
+            <svg viewBox="0 0 420 720" role="img" aria-label="台灣地圖輪廓">
+              <path
+                class="taiwan-island"
+                d="M260 38 C305 62 330 111 328 171 C326 216 348 263 333 313 C318 365 313 409 331 456 C354 516 324 580 281 636 C248 679 201 692 168 660 C135 628 129 574 106 533 C78 485 69 437 90 392 C111 347 122 303 111 258 C99 210 118 156 151 114 C180 78 216 43 260 38 Z"
+              />
+              <path class="taiwan-ridge" d="M266 86 C248 160 258 233 229 304 C203 369 223 443 198 526 C187 564 196 615 178 654" />
+              <path class="taiwan-ridge" d="M150 122 C188 168 189 232 169 293 C151 348 129 406 145 475 C154 518 154 576 184 637" />
+              <circle class="islet" cx="66" cy="456" r="18" />
+              <circle class="islet" cx="47" cy="329" r="14" />
+              <circle class="islet" cx="68" cy="113" r="9" />
+            </svg>
+            <div id="countyMapLabels" class="county-map-labels"></div>
+          </div>
+          <div id="countyList" class="county-list" aria-label="縣市門市數清單"></div>
+        </div>
+      </section>
+
       <section class="panel-grid">
         <article class="panel">
           <div class="panel-head">

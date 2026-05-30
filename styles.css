@@ -130,6 +130,7 @@ main {
 
 .metrics article,
 .panel,
+.location-panel,
 .table-panel {
   background: var(--panel);
   border: 1px solid var(--line);
@@ -175,6 +176,178 @@ main {
 .panel-head span {
   color: var(--muted);
   font-size: 13px;
+}
+
+.panel-copy {
+  margin-bottom: 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.location-panel {
+  padding: 20px;
+  margin-bottom: 18px;
+}
+
+.region-summary {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.region-card {
+  min-width: 0;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #f7faf7;
+}
+
+.region-card span,
+.region-card small {
+  display: block;
+}
+
+.region-card span {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.region-card strong {
+  display: block;
+  margin: 5px 0;
+  font-size: 26px;
+  line-height: 1;
+}
+
+.region-card small {
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.45;
+}
+
+.map-layout {
+  display: grid;
+  grid-template-columns: minmax(420px, 1fr) 280px;
+  gap: 18px;
+  align-items: start;
+}
+
+.taiwan-map {
+  position: relative;
+  min-height: 660px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: linear-gradient(180deg, #f8fbfb, #eef5f1);
+  overflow: hidden;
+}
+
+.taiwan-map svg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.taiwan-island {
+  fill: #dcebe3;
+  stroke: #9ab7a7;
+  stroke-width: 3;
+}
+
+.taiwan-ridge {
+  fill: none;
+  stroke: rgba(31, 122, 87, 0.2);
+  stroke-width: 2;
+}
+
+.islet {
+  fill: #dcebe3;
+  stroke: #9ab7a7;
+  stroke-width: 2;
+}
+
+.county-map-labels {
+  position: absolute;
+  inset: 0;
+}
+
+.county-marker {
+  position: absolute;
+  display: grid;
+  place-items: center;
+  width: 68px;
+  min-height: 45px;
+  padding: 5px 6px;
+  border: 1px solid rgba(23, 32, 27, 0.14);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.94);
+  color: var(--ink);
+  box-shadow: 0 8px 18px rgba(23, 32, 27, 0.12);
+  font: inherit;
+  line-height: 1.1;
+  text-align: center;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+}
+
+.county-marker:disabled {
+  cursor: default;
+}
+
+.county-marker span {
+  font-size: 11px;
+  white-space: nowrap;
+}
+
+.county-marker strong {
+  margin-top: 2px;
+  font-size: 20px;
+  line-height: 1;
+}
+
+.county-marker.high {
+  background: var(--green);
+  color: #fff;
+}
+
+.county-marker.mid {
+  background: #dceee5;
+  border-color: #9bc7b2;
+}
+
+.county-marker.low {
+  background: #eef6f1;
+}
+
+.county-marker.zero {
+  color: var(--muted);
+  background: rgba(255, 255, 255, 0.78);
+}
+
+.county-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 6px;
+  max-height: 660px;
+  overflow: auto;
+}
+
+.county-list-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 10px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #fff;
+  font-size: 13px;
+}
+
+.county-list-row strong {
+  font-variant-numeric: tabular-nums;
 }
 
 .bar-chart {
@@ -351,8 +524,19 @@ footer {
   }
 
   .metrics,
-  .panel-grid {
+  .panel-grid,
+  .region-summary,
+  .map-layout {
     grid-template-columns: 1fr;
+  }
+
+  .taiwan-map {
+    min-height: 720px;
+  }
+
+  .county-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    max-height: none;
   }
 
   .filters {
